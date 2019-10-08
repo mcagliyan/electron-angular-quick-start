@@ -1,6 +1,7 @@
 {
   "name": "app-name",
   "version": "1.0.0",
+  "description": "A minimal Electron-Angular application.",
   "main": "./dist/AppName/mainElectron.js",
   "scripts": {
     "ng": "ng",
