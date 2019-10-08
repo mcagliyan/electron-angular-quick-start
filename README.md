@@ -25,7 +25,7 @@ npm install
 # Run the Web app
 npm run start:open:dev
 # Run the Electron app
-npm run electron:build:dev
+npm run electron:start:dev
 ```
 
 # Angular
