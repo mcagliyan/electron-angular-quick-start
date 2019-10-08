@@ -2,11 +2,10 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/AppName",
-    "module": "commonjs"
+    "module": "commonjs"    
   },
   "files": [
     "src/mainElectron.ts",
-    "src/preload.ts",
-    "src/renderer.ts"
+    "src/preload.ts"
   ]
 }
