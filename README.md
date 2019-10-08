@@ -13,16 +13,21 @@ Currently versions:
 
 ## Getting Started
 
+To clone and run this repository you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) and [AngularCLI](https://cli.angular.io/) on your computer.
+
 Clone this repository locally:
 
-``` bash
+```bash
+# Clone this repository
 git clone https://github.com/mcagliyan/electron-angular-quick-start.git
-```
-
-Install dependencies with npm :
-
-``` bash
+# Go into the repository
+cd electron-angular-quick-start
+# Install dependencies
 npm install
+# Run the Web app
+npm run start:open:dev
+# Run the Electron app
+npm run electron:build:dev
 ```
 
 # Angular
