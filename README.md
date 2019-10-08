@@ -1,6 +1,6 @@
 # electron-angular-quick-start
 
-This is a Electron-Angular-Quick-Start repo for creating Desktop and Web applications.
+**This is a Electron-Angular-Quick-Start repo for creating Desktop and Web applications.**
 
 Currently versions:
 
