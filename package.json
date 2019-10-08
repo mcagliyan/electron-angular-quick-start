@@ -20,6 +20,14 @@
     "electron:linux": "npm run build:prod && npm run electron:build:prod && electron-builder build --linux",
     "electron:mac": "npm run build:prod && npm run electron:build:prod && electron-builder build --mac"
   },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "angular",
+    "typescript"
+  ],
   "author": "Muejdat Cagliyan",
   "license": "MIT",
   "private": false,
