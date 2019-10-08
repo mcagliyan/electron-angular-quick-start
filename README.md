@@ -57,27 +57,27 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Build Dev
 
-Run `electron:build:dev` to build the electron project for test.
+Run `npm run electron:build:dev` to build the electron project for test.
 
 ## Build Prod
 
-Run `electron:build:prod` to build electron project for production.
+Run `npm run electron:build:prod` to build electron project for production.
 
 ## Start Electron Dev
-Run `electron:start:dev` to start electron for test and open developer tools.
+Run `npm run electron:start:dev` to start electron for test and open developer tools.
 
 ## Start Electron Prod
 
-Run `electron:start:prod` to start electron for production.
+Run `npm run electron:start:prod` to start electron for production.
 
 ## Build on Windows System
 
-Run `electron:windows` to build the electron project for Windows system.
+Run `npm run electron:windows` to build the electron project for Windows system.
 
 ## Build on Linux System
 
-Run `electron:linux` to build the electron project for Linux system.
+Run `npm run electron:linux` to build the electron project for Linux system.
 
 ## Build on Mac System
 
-Run `electron:mac` to build the electron project for Mac system.
+Run `npm run electron:mac` to build the electron project for Mac system.
