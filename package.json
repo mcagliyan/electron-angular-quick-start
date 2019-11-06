@@ -13,6 +13,7 @@
     "start:open:dev": "ng serve --open",
     "start:open:prod": "ng serve --open --prod",
     "build:prod": "ng build --prod",
+    "build:watch": "ng build --watch=true",
     "electron:build:dev": "ng build && tsc -p tsconfig.electron.json",
     "electron:build:prod": "npm run build:prod && tsc -p tsconfig.electron.json --sourceMap false --removeComments true",
     "electron:start:dev": "npm run electron:build:dev && electron . --openDevTools",
