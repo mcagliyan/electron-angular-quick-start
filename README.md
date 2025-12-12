@@ -5,7 +5,7 @@
 Currently versions:
 
 - Angular 8.2.9
-- Electron 6.0.11
+- Electron 9.1.0
 - Node: 10.16.3
 - Chrome: 76.0.3809.146
 - Typescript 3.5.3
